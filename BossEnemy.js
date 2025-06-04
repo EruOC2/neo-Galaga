@@ -4,8 +4,8 @@ class BossEnemy {
     this.y = y;
     this.initialY = y;
     this.size = 100;
-    this.hp = 20;
-    this.maxHp = 20;
+    this.hp = 7;
+    this.maxHp = 7;
     this.isAlive = true;
     this.player = player;
 
